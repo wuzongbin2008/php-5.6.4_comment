@@ -1,41 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="../main/php_config.h.in" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="12443" topLine="604" />
-		</Cursor>
-	</File>
-	<File name="../main/php_main.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1362" topLine="35" />
-		</Cursor>
-	</File>
-	<File name="../sapi/fpm/fpm/fastcgi.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="4593" topLine="171" />
-		</Cursor>
-	</File>
-	<File name="../main/php.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1518" topLine="409" />
-		</Cursor>
-	</File>
-	<File name="../Zend/zend_exceptions.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2623" topLine="54" />
-		</Cursor>
-	</File>
-	<File name="../ext/standard/mail.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1519" topLine="34" />
-		</Cursor>
-	</File>
-	<File name="../Zend/zend_compile.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="0" topLine="204" />
-		</Cursor>
-	</File>
 	<File name="../Zend/zend_constants.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="4587" topLine="114" />
@@ -46,9 +11,24 @@
 			<Cursor1 position="0" topLine="69" />
 		</Cursor>
 	</File>
-	<File name="../sapi/cgi/fastcgi.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="../main/php.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="11201" topLine="440" />
+			<Cursor1 position="1518" topLine="409" />
+		</Cursor>
+	</File>
+	<File name="../Zend/zend.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22739" topLine="683" />
+		</Cursor>
+	</File>
+	<File name="../main/php_main.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1362" topLine="35" />
+		</Cursor>
+	</File>
+	<File name="../Zend/zend_builtin_functions.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1243" topLine="9" />
 		</Cursor>
 	</File>
 	<File name="../CODING_STANDARDS" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -56,14 +36,176 @@
 			<Cursor1 position="6879" topLine="166" />
 		</Cursor>
 	</File>
-	<File name="../sapi/embed/php_embed.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="../ext/standard/info.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="0" topLine="99" />
+			<Cursor1 position="23265" topLine="788" />
 		</Cursor>
+	</File>
+	<File name="../main/php_config.h.in" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12443" topLine="604" />
+		</Cursor>
+	</File>
+	<File name="../Zend/zend_compile.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="204" />
+		</Cursor>
+	</File>
+	<File name="../sapi/cli/php_cli.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3784" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="0" />
+			<Collapse line="121" />
+			<Collapse line="134" />
+			<Collapse line="176" />
+			<Collapse line="183" />
+			<Collapse line="193" />
+			<Collapse line="206" />
+			<Collapse line="213" />
+			<Collapse line="220" />
+			<Collapse line="236" />
+			<Collapse line="255" />
+			<Collapse line="262" />
+			<Collapse line="265" />
+			<Collapse line="271" />
+			<Collapse line="275" />
+			<Collapse line="288" />
+			<Collapse line="293" />
+			<Collapse line="297" />
+			<Collapse line="300" />
+			<Collapse line="306" />
+			<Collapse line="308" />
+			<Collapse line="323" />
+			<Collapse line="324" />
+			<Collapse line="327" />
+			<Collapse line="339" />
+			<Collapse line="343" />
+			<Collapse line="350" />
+			<Collapse line="353" />
+			<Collapse line="358" />
+			<Collapse line="361" />
+			<Collapse line="366" />
+			<Collapse line="373" />
+			<Collapse line="379" />
+			<Collapse line="381" />
+			<Collapse line="390" />
+			<Collapse line="396" />
+			<Collapse line="402" />
+			<Collapse line="403" />
+			<Collapse line="410" />
+			<Collapse line="415" />
+			<Collapse line="416" />
+			<Collapse line="433" />
+			<Collapse line="440" />
+			<Collapse line="442" />
+			<Collapse line="481" />
+			<Collapse line="488" />
+			<Collapse line="491" />
+			<Collapse line="495" />
+			<Collapse line="554" />
+			<Collapse line="568" />
+			<Collapse line="619" />
+			<Collapse line="622" />
+			<Collapse line="630" />
+			<Collapse line="638" />
+			<Collapse line="639" />
+			<Collapse line="643" />
+			<Collapse line="644" />
+			<Collapse line="659" />
+			<Collapse line="676" />
+			<Collapse line="681" />
+			<Collapse line="682" />
+			<Collapse line="685" />
+			<Collapse line="712" />
+			<Collapse line="735" />
+			<Collapse line="736" />
+			<Collapse line="739" />
+			<Collapse line="740" />
+			<Collapse line="754" />
+			<Collapse line="755" />
+			<Collapse line="768" />
+			<Collapse line="779" />
+			<Collapse line="787" />
+			<Collapse line="800" />
+			<Collapse line="801" />
+			<Collapse line="814" />
+			<Collapse line="815" />
+			<Collapse line="828" />
+			<Collapse line="829" />
+			<Collapse line="842" />
+			<Collapse line="843" />
+			<Collapse line="856" />
+			<Collapse line="864" />
+			<Collapse line="905" />
+			<Collapse line="911" />
+			<Collapse line="928" />
+			<Collapse line="932" />
+			<Collapse line="933" />
+			<Collapse line="937" />
+			<Collapse line="964" />
+			<Collapse line="974" />
+			<Collapse line="976" />
+			<Collapse line="984" />
+			<Collapse line="986" />
+			<Collapse line="990" />
+			<Collapse line="999" />
+			<Collapse line="1006" />
+			<Collapse line="1012" />
+			<Collapse line="1015" />
+			<Collapse line="1033" />
+			<Collapse line="1039" />
+			<Collapse line="1046" />
+			<Collapse line="1054" />
+			<Collapse line="1056" />
+			<Collapse line="1066" />
+			<Collapse line="1067" />
+			<Collapse line="1071" />
+			<Collapse line="1072" />
+			<Collapse line="1083" />
+			<Collapse line="1093" />
+			<Collapse line="1098" />
+			<Collapse line="1102" />
+			<Collapse line="1130" />
+			<Collapse line="1144" />
+			<Collapse line="1149" />
+			<Collapse line="1150" />
+			<Collapse line="1164" />
+			<Collapse line="1175" />
+			<Collapse line="1178" />
+			<Collapse line="1181" />
+			<Collapse line="1193" />
+			<Collapse line="1220" />
+			<Collapse line="1229" />
+			<Collapse line="1247" />
+			<Collapse line="1272" />
+			<Collapse line="1280" />
+			<Collapse line="1285" />
+			<Collapse line="1287" />
+			<Collapse line="1342" />
+			<Collapse line="1343" />
+			<Collapse line="1357" />
+			<Collapse line="1358" />
+			<Collapse line="1369" />
+			<Collapse line="1373" />
+			<Collapse line="1375" />
+			<Collapse line="1385" />
+			<Collapse line="1388" />
+			<Collapse line="1391" />
+			<Collapse line="1394" />
+			<Collapse line="1401" />
+			<Collapse line="1410" />
+		</Folding>
 	</File>
 	<File name="../TSRM/TSRM.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="2391" topLine="44" />
+			<Cursor1 position="832" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="../sapi/cgi/fastcgi.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11201" topLine="440" />
 		</Cursor>
 	</File>
 	<File name="../sapi/fpm/fpm/fpm.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -83,9 +225,64 @@
 			<Collapse line="107" />
 		</Folding>
 	</File>
-	<File name="../sapi/fpm/fpm/fpm_main.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="../sapi/fpm/fpm/fastcgi.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="50222" topLine="360" />
+			<Cursor1 position="4593" topLine="171" />
+		</Cursor>
+	</File>
+	<File name="../configure" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2662355" topLine="107818" />
+		</Cursor>
+	</File>
+	<File name="../main/SAPI.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2500" topLine="81" />
+		</Cursor>
+	</File>
+	<File name="../Makefile.global" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6191" topLine="125" />
+		</Cursor>
+	</File>
+	<File name="../sapi/embed/php_embed.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="99" />
+		</Cursor>
+	</File>
+	<File name="../main/SAPI.h" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8051" topLine="208" />
+		</Cursor>
+	</File>
+	<File name="../ext/standard/mail.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1519" topLine="34" />
+		</Cursor>
+	</File>
+	<File name="../NEWS" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10583" topLine="301" />
+		</Cursor>
+	</File>
+	<File name="../main/getopt.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1897" topLine="90" />
+		</Cursor>
+	</File>
+	<File name="../INSTALL" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="24995" topLine="593" />
+		</Cursor>
+	</File>
+	<File name="../Zend/zend_exceptions.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2623" topLine="54" />
+		</Cursor>
+	</File>
+	<File name="../sapi/fpm/fpm/fpm_main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="50099" topLine="349" />
 		</Cursor>
 		<Folding>
 			<Collapse line="0" />
@@ -333,29 +530,107 @@
 			<Collapse line="2032" />
 		</Folding>
 	</File>
-	<File name="../main/getopt.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1897" topLine="90" />
-		</Cursor>
-	</File>
-	<File name="../configure" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="576046" topLine="21933" />
-		</Cursor>
-	</File>
-	<File name="../Zend/zend_builtin_functions.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1243" topLine="9" />
-		</Cursor>
-	</File>
 	<File name="../TSRM/TSRM.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="3162" topLine="90" />
+			<Cursor1 position="787" topLine="15" />
 		</Cursor>
-	</File>
-	<File name="../INSTALL" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="24995" topLine="593" />
-		</Cursor>
+		<Folding>
+			<Collapse line="0" />
+			<Collapse line="120" />
+			<Collapse line="139" />
+			<Collapse line="147" />
+			<Collapse line="165" />
+			<Collapse line="168" />
+			<Collapse line="169" />
+			<Collapse line="172" />
+			<Collapse line="176" />
+			<Collapse line="177" />
+			<Collapse line="178" />
+			<Collapse line="192" />
+			<Collapse line="199" />
+			<Collapse line="215" />
+			<Collapse line="227" />
+			<Collapse line="229" />
+			<Collapse line="243" />
+			<Collapse line="246" />
+			<Collapse line="247" />
+			<Collapse line="251" />
+			<Collapse line="253" />
+			<Collapse line="270" />
+			<Collapse line="283" />
+			<Collapse line="286" />
+			<Collapse line="287" />
+			<Collapse line="290" />
+			<Collapse line="292" />
+			<Collapse line="298" />
+			<Collapse line="308" />
+			<Collapse line="314" />
+			<Collapse line="320" />
+			<Collapse line="322" />
+			<Collapse line="323" />
+			<Collapse line="330" />
+			<Collapse line="332" />
+			<Collapse line="349" />
+			<Collapse line="353" />
+			<Collapse line="354" />
+			<Collapse line="357" />
+			<Collapse line="362" />
+			<Collapse line="370" />
+			<Collapse line="380" />
+			<Collapse line="383" />
+			<Collapse line="387" />
+			<Collapse line="390" />
+			<Collapse line="391" />
+			<Collapse line="395" />
+			<Collapse line="405" />
+			<Collapse line="410" />
+			<Collapse line="423" />
+			<Collapse line="434" />
+			<Collapse line="442" />
+			<Collapse line="453" />
+			<Collapse line="454" />
+			<Collapse line="455" />
+			<Collapse line="456" />
+			<Collapse line="460" />
+			<Collapse line="464" />
+			<Collapse line="473" />
+			<Collapse line="484" />
+			<Collapse line="495" />
+			<Collapse line="496" />
+			<Collapse line="497" />
+			<Collapse line="498" />
+			<Collapse line="502" />
+			<Collapse line="506" />
+			<Collapse line="512" />
+			<Collapse line="518" />
+			<Collapse line="530" />
+			<Collapse line="538" />
+			<Collapse line="539" />
+			<Collapse line="542" />
+			<Collapse line="543" />
+			<Collapse line="544" />
+			<Collapse line="564" />
+			<Collapse line="570" />
+			<Collapse line="591" />
+			<Collapse line="622" />
+			<Collapse line="623" />
+			<Collapse line="649" />
+			<Collapse line="654" />
+			<Collapse line="660" />
+			<Collapse line="681" />
+			<Collapse line="686" />
+			<Collapse line="692" />
+			<Collapse line="712" />
+			<Collapse line="717" />
+			<Collapse line="730" />
+			<Collapse line="739" />
+			<Collapse line="748" />
+			<Collapse line="754" />
+			<Collapse line="755" />
+			<Collapse line="774" />
+			<Collapse line="778" />
+			<Collapse line="782" />
+			<Collapse line="784" />
+		</Folding>
 	</File>
 </CodeBlocks_layout_file>

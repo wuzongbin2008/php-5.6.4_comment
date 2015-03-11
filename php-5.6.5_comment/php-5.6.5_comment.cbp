@@ -73,6 +73,7 @@
 		<Unit filename="../TSRM/readdir.h" />
 		<Unit filename="../TSRM/threads.m4" />
 		<Unit filename="../TSRM/tsrm.m4" />
+		<Unit filename="../TSRM/tsrm_config.h" />
 		<Unit filename="../TSRM/tsrm_config.w32.h" />
 		<Unit filename="../TSRM/tsrm_config_common.h" />
 		<Unit filename="../TSRM/tsrm_nw.c">
